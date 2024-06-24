@@ -1,7 +1,7 @@
 # 💫 About Me
 👋 Hi, I'm Magnus Göppel!
 
-🎓 I'm currently pursuing a BSc in Computer Science with a focus on Data Science and AI. I'm constantly looking to learn and improve my skills. Throughout my studies, I've worked on various projects that demonstrate my ability to apply theoretical knowledge to practical applications.
+🎓 I'm currently pursuing a BSc in Computer Science with a focus on Data Science and AI. I'm constantly looking to learn and improve my skills. Throughout my studies, I've worked on various projects that demonstrate my ability to address challenges, learn new concepts, and apply my knowledge in practical ways.
 
 # 💻 Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
