@@ -1,5 +1,7 @@
 # 💫 About Me
-🎓 BSc Computer Science Student
+👋 Hi, I'm Magnus Göppel!
+
+🎓 I'm currently pursuing a BSc in Computer Science with a focus on Data Science and AI. I'm constantly looking to learn and improve my skills. Throughout my studies, I've worked on various projects that demonstrate my ability to apply theoretical knowledge to practical applications.
 
 # 💻 Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -15,11 +17,11 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![JSON](https://img.shields.io/badge/json-%23000000.svg?style=for-the-badge&logo=json&logoColor=white)
 ![LDAP](https://img.shields.io/badge/LDAP-%23000000.svg?style=for-the-badge&logo=ldap&logoColor=white)
 
-## 🌐 Socials
+## 📫 How to Reach Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/magnus-g%C3%B6ppel-062786285) 
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:magnus_goeppel@protonmail.com)
 
 
