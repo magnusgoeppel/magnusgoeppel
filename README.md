@@ -21,7 +21,7 @@
 ![LDAP](https://img.shields.io/badge/LDAP-%23000000.svg?style=for-the-badge&logo=ldap&logoColor=white)
 
 ## 📫 How to Reach Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/magnus-g%C3%B6ppel-062786285) 
+<!--  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/magnus-g%C3%B6ppel-062786285) --> 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:magnus_goeppel@protonmail.com)
 
 
